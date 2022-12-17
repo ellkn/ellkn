@@ -26,7 +26,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
-- :mailbox:How to reach me: telegram  @ell_kn
+- :mailbox:How to reach me: <a href="https://t.me/ell_kn" target="_blank">Telegram</a>
 
 
 ---
