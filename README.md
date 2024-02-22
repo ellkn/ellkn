@@ -22,7 +22,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: I am studying in the 4th year of SSTU in the direction of "Information security"
+- :seedling: I am studying in the 5th year of SSTU in the direction of "Information security"
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
