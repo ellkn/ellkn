@@ -18,19 +18,6 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: I am studying in the 5th year of SSTU in the direction of "Information security"
-
-- :zap: In my free time, I solve problems on HackerRank and read tech articles.
-
-- :mailbox:How to reach me: <a href="https://t.me/ell_kn" target="_blank">Telegram</a>
-
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 
 
